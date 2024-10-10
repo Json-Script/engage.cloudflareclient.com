@@ -1,0 +1,41 @@
+{
+  "PORT": [
+    "500",     // Well-known
+    "928",     // Well-known
+    "939",     // Well-known
+    "987",     // Well-known
+    "1010",    // Well-known
+    "1014",    // Well-known
+    "1018",    // Well-known
+    "3581",    // Registered
+    "1074",    // Registered
+    "1387",    // Registered
+    "2408",    // Registered
+    "2506",    // Registered
+    "3138",    // Registered
+    "3476",    // Registered
+    "4198",    // Registered
+    "4233",    // Registered
+    "4500",    // Registered
+    "7152",    // Registered
+    "7156",    // Registered
+    "7559",    // Registered
+    "8319",    // Registered
+    "8742",    // Registered
+    "880",     // Registered
+    "946",     // Registered
+    "945",     // Registered
+    "864",     // Registered
+    "988",     // Registered
+    "903",     // Registered
+    "5279",    // Registered
+    "3854",    // Registered
+    "878",     // Registered
+    "1843",    // Registered
+    "2371",    // Registered
+    "859",     // Registered
+    "1002",    // Registered
+    "1070",    // Registered
+    "7103"     // Registered
+  ]
+}
